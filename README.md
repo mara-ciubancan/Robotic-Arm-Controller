@@ -9,3 +9,5 @@ The aim of the project was to create position control over a linear robotic arm;
 # Results
 I chose a Sine Wave Signal as input and I compared it with the current position of the piston. 
 ![Simulink Simulation Results](Results.jpeg)
+
+The yellow sinus represents the input sine wave, whereas the blue sinus indicates the piston position changing over time. The position of the piston follows the input signal, nevertheless it can be observed that the blue sinus presents both overshoot and undershoot. A better result can be obtained by further tuning the P and I components in the PI controller block.
