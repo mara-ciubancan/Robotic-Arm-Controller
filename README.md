@@ -8,3 +8,4 @@ The aim of the project was to create position control over a linear robotic arm;
 
 # Results
 I chose a Sine Wave Signal as input and I compared it with the current position of the piston. 
+![Simulation Demo Description](Results.png)
