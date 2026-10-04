@@ -14,4 +14,4 @@ The yellow sinus represents the input sine wave, whereas the blue sinus indicate
 
 # Hardware Demo
 
-![Robotic Arm Hardware Demo](Project Demo Gif.gif)
+![Robotic Arm Hardware Demo](Project%20Demo%20Gif.gif)
